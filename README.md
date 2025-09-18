@@ -22,6 +22,7 @@ This project extracts key business metrics such as total revenue, average order 
 • Python 3.x  
 • SQLite  
 • Pandas  
+• Numpy
 • Matplotlib  
 • :contentReference[oaicite:2]{index=2}  
 
